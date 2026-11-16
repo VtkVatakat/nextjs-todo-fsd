@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Изучить архитектуру FSD",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Настроить RTK Query, Slice и Zod",
+      "completed": true
+    },
+    {
+      "id": "097d2363-3dab-4f0a-afd2-aaa1fabc63a1",
+      "title": "гнлглгнл",
+      "completed": false
+    }
+  ]
+}
